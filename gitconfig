@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api user/emails | jq -r '.[].email'
+	email = gh api danielkebirnorea@gmail.com
 	name = Norea Dani El Kebir
